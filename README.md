@@ -1,5 +1,7 @@
 ## Uberty Documentation & Quick Start
 
+![](https://mrcodexer.visualstudio.com/Net%20Projects/_apis/build/status/Uberty%20Build%20Release)
+
 Uberty is a productivity helper library that eases and simplifies the development process with databases.
 
 In order to get started, you will need to head over to NuGet [here](https://www.nuget.org/packages/Uberty/) or if you want through the Package Manager:
@@ -14,7 +16,7 @@ Install-Package Uberty -Version 1.0.8
 ### Handling multiple database's
 
   - Vb.Net
-```markdown  
+```vb  
   ' Create a singleton of the DataBaseManager class
    Public ReadOnly dbManager As DataBaseManager = DataBaseManager.Instance
   
@@ -26,7 +28,7 @@ Install-Package Uberty -Version 1.0.8
 ```
 
 - C#
-```markdown  
+```csharp 
   ' Create a singleton of the DataBaseManager class
    public readonly DataBaseManager dbManager = DataBaseManager.Instance;
   
