@@ -28,7 +28,7 @@ Install-Package Uberty -Version 1.0.8
 ```
 
 - C#
-```csharp 
+```c 
   ' Create a singleton of the DataBaseManager class
    public readonly DataBaseManager dbManager = DataBaseManager.Instance;
   
@@ -42,7 +42,7 @@ Install-Package Uberty -Version 1.0.8
 ### SqlServer
 
   - Vb.Net
-```markdown  
+```vb  
   ' Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.SQLServer)
   
@@ -50,7 +50,7 @@ Install-Package Uberty -Version 1.0.8
   Dim rowsAffected As Integer = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.SQLServer)  
 ```
   - C#
-```markdown  
+```c  
   // Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.SQLServer);
   
@@ -61,7 +61,7 @@ Install-Package Uberty -Version 1.0.8
 ### MySQL
 
   - Vb.Net
-```markdown  
+```vb  
   ' Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.MySQL)
   
@@ -69,7 +69,7 @@ Install-Package Uberty -Version 1.0.8
   Dim rowsAffected As Integer = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.MySQL)  
 ```
   - C#
-```markdown  
+```c  
   // Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.MySQL);
   
