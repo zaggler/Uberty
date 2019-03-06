@@ -1,22 +1,9 @@
 ## Uberty Documentation
-In order to get started, you will need the Uberty NuGet package which can be grabbed [here](https://www.nuget.org/packages/Uberty/)
+
+In order to get started, you will need the Uberty NuGet package which can be grabbed [here](https://www.nuget.org/packages/Uberty/). Or if you want through the Package Manager:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Install-Package Uberty -Version 1.0.8
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
