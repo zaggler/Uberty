@@ -1,4 +1,4 @@
-## Uberty Documentation
+## Uberty Documentation & Quick Start
 
 In order to get started, you will need the Uberty NuGet package which can be grabbed [here](https://www.nuget.org/packages/Uberty/). Or if you want through the Package Manager:
 
@@ -6,12 +6,6 @@ In order to get started, you will need the Uberty NuGet package which can be gra
 Install-Package Uberty -Version 1.0.8
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaggler/Uberty/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any troubles and or issues, Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and I'll help you sort it out.
