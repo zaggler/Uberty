@@ -1,8 +1,5 @@
 ## Uberty Documentation
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In order to get started, you will need the Uberty NuGet package which can be grabbed [here](https://www.nuget.org/packages/Uberty/)
 
 ```markdown
 Syntax highlighted code block
