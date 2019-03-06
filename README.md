@@ -4,7 +4,7 @@
 
 Uberty is a productivity helper library that eases and simplifies the development process with databases.
 
-In order to get started, you will need to head over to NuGet [here](https://www.nuget.org/packages/Uberty/) or if you want through the Package Manager:
+In order to get started, you will need to head over to NuGet [here](https://www.nuget.org/packages/Uberty/)
 
 ```markdown
 Install-Package Uberty -Version 1.0.8
