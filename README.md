@@ -9,11 +9,12 @@ Install-Package Uberty -Version 1.0.8
 ```
 
 ## Quick Start
-* If using MySQL, the connector's driver (MySql.Data.dll) must reside in the parents directory as Uberty automatically looks for them.
+* If using MySQL, the connector's driver (MySql.Data.dll) must reside in the parents executing directory as Uberty automatically looks for it.
 
-```markdown
-SqlServer
-  Vb.Net
+# SqlServer
+
+  - Vb.Net
+```markdown  
   ' Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.SQLServer)
   
