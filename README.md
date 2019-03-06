@@ -17,13 +17,39 @@ Install-Package Uberty -Version 1.0.8
 ```markdown  
   ' Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.SQLServer)
+  
+  ' ExecuteNonQuery
+  Dim rowsAffected As Integer = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.SQLServer)  
 ```
-
   - C#
 ```markdown  
   // Check database connection
   DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.SQLServer);
+  
+  // ExecuteNonQuery
+  int rowsAffected = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.SQLServer);
 ```
+
+### MySQL
+
+  - Vb.Net
+```markdown  
+  ' Check database connection
+  DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.MySQL)
+  
+  ' ExecuteNonQuery
+  Dim rowsAffected As Integer = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.MySQL)  
+```
+  - C#
+```markdown  
+  // Check database connection
+  DataBaseMediator.CanConnect("connectionstring", DataBaseEnums.DataBaseType.MySQL);
+  
+  // ExecuteNonQuery
+  int rowsAffected = DataBaseMediator.ExecuteNonQuery("connectionstring", "command", DataBaseEnums.DataBaseType.MySQL);
+```
+
+
 
 ## Issues & Problems?
 
