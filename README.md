@@ -1,4 +1,4 @@
-![](https://github.com/zaggler/Uberty/blob/master/ubertyImage.PNG)
+![](https://github.com/zaggler/Uberty/blob/master/ubertyNuget.png)
 
 ## Uberty Documentation & Quick Start
 
