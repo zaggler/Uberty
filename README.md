@@ -1,3 +1,5 @@
+![](https://github.com/zaggler/Uberty/blob/master/ubertyImage.PNG)
+
 ## Uberty Documentation & Quick Start
 
 ![](https://mrcodexer.visualstudio.com/Net%20Projects/_apis/build/status/Uberty%20Build%20Release)
