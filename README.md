@@ -1,4 +1,4 @@
-<img src="https://github.com/zaggler/Uberty/blob/master/uberty6464.png">
+<img src="https://github.com/zaggler/Uberty/blob/master/Icon.png">
 
 ## Uberty Documentation & Quick Start
 
