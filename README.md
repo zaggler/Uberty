@@ -1,5 +1,4 @@
-<img src="https://github.com/zaggler/Uberty/blob/master/uberty6464.png"><h1>Uberty</h1>
-![](https://github.com/zaggler/Uberty/blob/master/uberty6464.png) | I am text to the right
+<img src="https://github.com/zaggler/Uberty/blob/master/uberty6464.png">
 
 ## Uberty Documentation & Quick Start
 
