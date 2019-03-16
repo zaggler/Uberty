@@ -9,7 +9,7 @@ Uberty is a productivity helper library that eases and simplifies the developmen
 In order to get started, you will need to head over to NuGet [here](https://www.nuget.org/packages/Uberty/).
 
 ## Quick Start
-* If using MySQL, the connector's driver (MySql.Data.dll) must reside in the parents executing directory as Uberty automatically looks for it.
+* If using MySQL or SQLServerCe, the connector's driver (MySql.Data.dll or System.Data.SqlServerCe.dll) must reside in the parents executing directory as Uberty automatically looks for it.
 
 ### Handling multiple database's
 
